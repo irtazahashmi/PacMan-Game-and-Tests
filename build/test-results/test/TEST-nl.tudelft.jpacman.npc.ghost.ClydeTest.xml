@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.npc.ghost.ClydeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-21T14:15:26" hostname="wlan-145-94-160-201.wlan.tudelft.nl" time="0.019">
+  <properties/>
+  <testcase name="noPathBetweenPlayerAndClyde()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.008"/>
+  <testcase name="noPlayerOnTheBoard()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.002"/>
+  <testcase name="moreThanEightStepsAway()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.003"/>
+  <testcase name="lessThanEightStepsAway()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

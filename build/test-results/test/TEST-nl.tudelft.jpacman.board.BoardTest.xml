@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-06-21T14:15:20" hostname="wlan-145-94-160-201.wlan.tudelft.nl" time="0.273">
+  <properties/>
+  <testcase name="withinBordersTest(int, int, boolean)[1]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.21"/>
+  <testcase name="withinBordersTest(int, int, boolean)[2]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.003"/>
+  <testcase name="withinBordersTest(int, int, boolean)[3]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.002"/>
+  <testcase name="withinBordersTest(int, int, boolean)[4]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.002"/>
+  <testcase name="withinBordersTest(int, int, boolean)[5]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.008"/>
+  <testcase name="withinBordersTest(int, int, boolean)[6]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.003"/>
+  <testcase name="withinBordersTest(int, int, boolean)[7]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.003"/>
+  <testcase name="squareAtTestBasic()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

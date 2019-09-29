@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.game.MultiLevelGameTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-06-21T14:15:24" hostname="wlan-145-94-160-201.wlan.tudelft.nl" time="0.713">
+  <properties/>
+  <testcase name="startGame()" classname="nl.tudelft.jpacman.game.MultiLevelGameTest" time="0.081"/>
+  <testcase name="endGame()" classname="nl.tudelft.jpacman.game.MultiLevelGameTest" time="0.078"/>
+  <testcase name="resumeGame()" classname="nl.tudelft.jpacman.game.MultiLevelGameTest" time="0.073"/>
+  <testcase name="playerKilled()" classname="nl.tudelft.jpacman.game.MultiLevelGameTest" time="0.069"/>
+  <testcase name="pauseGame()" classname="nl.tudelft.jpacman.game.MultiLevelGameTest" time="0.069"/>
+  <testcase name="finalPellet()" classname="nl.tudelft.jpacman.game.MultiLevelGameTest" time="0.07"/>
+  <testcase name="playerDoesNotLevelUpWhenKilled()" classname="nl.tudelft.jpacman.game.MultiLevelGameTest" time="0.124"/>
+  <testcase name="gameLevelOneTest()" classname="nl.tudelft.jpacman.game.MultiLevelGameTest" time="0.137"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

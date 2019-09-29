@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-06-21T14:15:14" hostname="wlan-145-94-160-201.wlan.tudelft.nl" time="1.588">
+  <properties/>
+  <testcase name="fuzzerTest(RepetitionInfo)[1]" classname="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" time="0.442"/>
+  <testcase name="fuzzerTest(RepetitionInfo)[2]" classname="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" time="0.291"/>
+  <testcase name="fuzzerTest(RepetitionInfo)[3]" classname="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" time="0.361"/>
+  <testcase name="fuzzerTest(RepetitionInfo)[4]" classname="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" time="0.317"/>
+  <testcase name="fuzzerTest(RepetitionInfo)[5]" classname="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" time="0.139"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

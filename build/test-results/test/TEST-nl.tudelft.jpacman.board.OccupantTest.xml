@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.board.OccupantTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-06-21T14:15:20" hostname="wlan-145-94-160-201.wlan.tudelft.nl" time="0.13">
+  <properties/>
+  <testcase name="noStartSquare()" classname="nl.tudelft.jpacman.board.OccupantTest" time="0.09"/>
+  <testcase name="testReoccupy()" classname="nl.tudelft.jpacman.board.OccupantTest" time="0.035"/>
+  <testcase name="testOccupy()" classname="nl.tudelft.jpacman.board.OccupantTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

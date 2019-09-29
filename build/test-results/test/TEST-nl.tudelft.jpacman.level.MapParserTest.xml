@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.level.MapParserTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2019-06-21T14:15:25" hostname="wlan-145-94-160-201.wlan.tudelft.nl" time="0.318">
+  <properties/>
+  <testcase name="parseWall()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.16"/>
+  <testcase name="parseDifferentLineLengths()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.012"/>
+  <testcase name="parseGhosts()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.016"/>
+  <testcase name="parseGround()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.01"/>
+  <testcase name="parseIncorrectMapName()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.004"/>
+  <testcase name="parseCorrectMapName()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.008"/>
+  <testcase name="parsePellet()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.013"/>
+  <testcase name="parsePlayer()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.009"/>
+  <testcase name="parseEmptyLine()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.002"/>
+  <testcase name="parseCorrectMap()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.009"/>
+  <testcase name="parseNullMap()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.002"/>
+  <testcase name="parseEmptyMap()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.001"/>
+  <testcase name="parseIncorrectChar()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.011"/>
+  <testcase name="parseCorrectLine()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.01"/>
+  <testcase name="parseCorrectInputStream()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.01"/>
+  <testcase name="testGetter()" classname="nl.tudelft.jpacman.level.MapParserTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

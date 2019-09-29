@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.level.PlayerCollisionsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-06-21T14:15:25" hostname="wlan-145-94-160-201.wlan.tudelft.nl" time="0.237">
+  <properties/>
+  <testcase name="pelletCollidingWithPlayer()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.181"/>
+  <testcase name="pelletCollidingWithEmptySquare()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.003"/>
+  <testcase name="ghostCollidingWithEmptySquare()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.005"/>
+  <testcase name="ghostCollidingWithPellet()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.004"/>
+  <testcase name="ghostCollidingWithPlayer()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.007"/>
+  <testcase name="playerCollidingWithGhost()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.005"/>
+  <testcase name="emptySquareCollidingWithEmptySquare()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.007"/>
+  <testcase name="playerCollidingWithEmptySquare()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.008"/>
+  <testcase name="playerCollidingWithPellet()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

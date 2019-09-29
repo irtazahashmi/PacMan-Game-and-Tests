@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.npc.ghost.InkyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-06-21T14:15:25" hostname="wlan-145-94-160-201.wlan.tudelft.nl" time="0.042">
+  <properties/>
+  <testcase name="blinkyBesideInky()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.012"/>
+  <testcase name="noPathBetweenPlayerAndInky()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.003"/>
+  <testcase name="blinkyTwoSquaresAheadOfPacMan()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.005"/>
+  <testcase name="noPathBetweenPlayerAndInkyAndBlinky()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.001"/>
+  <testcase name="noPlayerOnTheBoard()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.008"/>
+  <testcase name="inkyInFrontOfPacMan()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.004"/>
+  <testcase name="noBlinky()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
